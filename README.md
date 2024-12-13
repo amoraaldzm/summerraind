@@ -1,1 +1,1 @@
-https://github.com/amoraaldzm/summerraind.git
+https://summerraind.netlify.app/
